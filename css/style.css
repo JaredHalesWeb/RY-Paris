@@ -20,3 +20,8 @@ nav ul li a {
     text-decoration: none;
     color: black;
 } 
+.parisLogo {
+    display: inline;
+    float: left;
+    padding: 21px 167px;
+}
