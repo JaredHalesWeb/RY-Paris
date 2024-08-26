@@ -25,3 +25,9 @@ nav ul li a {
     float: left;
     padding: 21px 167px;
 }
+.frontPage {
+    width: 100%;
+    height:600px;
+    background-image: url("../images/hero-image.jpg");
+    background-size: cover;
+}
