@@ -84,3 +84,20 @@ nav ul li a {
     background-size: cover;
     background-position: center;
 }
+.text-Cont {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    font-size:27px;
+    top: -33px;
+    padding: 0 192px;
+}
+.veg {
+    position: relative;
+    left: 15px;
+}
+.week {
+    position: relative;
+    left: 10px;
+}
