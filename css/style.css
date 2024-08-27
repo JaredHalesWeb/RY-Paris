@@ -107,8 +107,8 @@ nav ul li a {
     background-color: #dadfea;
 }
 .healthyRecipes {
-    width:250px;
-    height:220px;
+    width:275px;
+    height:225px;
     background-size: cover;
 }
 #stuffedPeppers {
@@ -118,8 +118,39 @@ nav ul li a {
     background-image: url("../images/muffins.jpeg");
 }
 #eggplant {
-    background-image: url("../images/eggplant-parmesan.jpg");
+    background-image: url("../images/eggplant.png");
 }
 #chickenThighs {
-    background-image: url("../images/bengal-burger.jpg");
+    background-image: url("../images/chickenThigh.png");
+}
+#recipe-Cont {
+    padding: 0 190px;
+}
+#whitePep {
+    background-color: white;
+    padding: 12px 43px;
+    position: relative;
+    left: -37px;
+    top: -16px;
+}
+#whiteMuf {
+    background-color: white;
+    padding: 12px 38px;
+    position: relative;
+    left: -10px;
+    top: -16px;
+}
+#whiteEgg {
+    background-color: white;
+    padding: 12px 55px;
+    position: relative;
+    left: 14px;
+    top: -16px;
+}
+#whiteChi {
+    background-color: white;
+    padding: 12px 39px;
+    position: relative;
+    left: 38px;
+    top: -16px;
 }
