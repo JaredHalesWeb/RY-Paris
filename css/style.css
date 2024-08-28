@@ -9,15 +9,15 @@ header {
     background-color: #f1a536;
     border-bottom: 5px white solid;
 }
-nav ul {
+header nav ul {
     float:right;
     padding: 52px 64px;
 }
-nav ul li {
+header nav ul li {
     display: inline;
     padding: 3px 20px;
 }
-nav ul li a {
+header nav ul li a {
     font-size: 28px;
     text-decoration: none;
     color: black;
@@ -179,4 +179,31 @@ nav ul li a {
 .centerText {
     position: relative;
     left: -74px;
+}
+footer {
+    width:100%;
+    height:125px;
+    background-color: #f1a536;
+}
+footer nav ul {
+    float:right;
+    position: relative;
+    top: 57px;
+    left: -78px;
+}
+footer nav ul li {
+    display: inline;
+    padding: 0px 12px;
+}
+footer nav ul li a {
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+} 
+.copyright {
+    font-size:24px;
+    float: left;
+    position: relative;
+    top: 52px;
+    left: 133px;
 }
