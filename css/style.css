@@ -25,7 +25,7 @@ nav ul li a {
 .parisLogo {
     display: inline;
     float: left;
-    padding: 21px 167px;
+    padding: 21px 133px;
 }
 
 .frontPage {
@@ -51,17 +51,17 @@ nav ul li a {
 }
 .cate {
     font-size:64px;
-    padding: 35px 150px;
+    padding: 35px 133px;
 }
 .homeCook {
     font-size: 27px;
-    padding: 0px 153px;
+    padding: 0px 133px;
 }
 .every-Cont {
     display:flex;
     justify-content: space-between;
     align-items: center;
-    padding: 50px 153px;
+    padding: 50px 133px;
 }
 .importantMeal {
     width:350px;
