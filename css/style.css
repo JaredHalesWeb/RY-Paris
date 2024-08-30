@@ -377,3 +377,10 @@ footer nav ul li a {
     top: 21px;
     left: -5px;
 }
+.cookVid {
+    position: relative;
+    bottom: -365px;
+    left: 47px;
+    width: 645px;
+    height: 525px;
+}
