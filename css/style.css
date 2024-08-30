@@ -2,6 +2,7 @@
     margin:0;
     box-sizing: border-box;
     font-family: "Nunito", sans-serif;
+    
 }
 header {
     width:100%;
@@ -317,6 +318,7 @@ footer nav ul li a {
 .insturctions {
     width: 100%;
     height: 200vh;
+    overflow: hidden;
 }
 #ing {
     position: relative;
@@ -328,6 +330,7 @@ footer nav ul li a {
     position: relative;
     top: 88px;
     left: 148px;
+    float:left;
 }
 .ingredients ul li {
     padding: 4px 0px;
@@ -335,8 +338,8 @@ footer nav ul li a {
 }
 #mix {
     position: relative;
-    top: 123px;
-    left: 177px;
+    top: 440px;
+    left: -304px;
     padding: 10px;
     font-size: 34px;
 }
@@ -344,4 +347,33 @@ footer nav ul li a {
     position: relative;
     top: 108px;
     left: 148px;
+
+}
+#spice {
+    position: relative;
+    top: 314px;
+    left: -501px;
+}
+#direct {
+    position:relative;
+    top: -98px;
+    left: -72px;
+}
+
+.directions ol {
+    float:right;
+    position: relative;
+    top:-104px;
+    left:-111px;
+}
+.directions ol li {
+    padding: 23px 0px;
+    font-size:20px;
+}
+.counter {
+    font-weight: 800;
+    font-size: 19px;
+    position: relative;
+    top: 21px;
+    left: -5px;
 }
